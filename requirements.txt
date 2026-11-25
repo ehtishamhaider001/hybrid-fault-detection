@@ -1,0 +1,13 @@
+numpy==2.0.2
+pandas==2.2.2
+scipy
+scikit-learn==1.6.1
+imbalanced-learn
+tensorflow
+xgboost
+shap
+matplotlib
+seaborn
+pydot
+graphviz
+tqdm
